@@ -35,6 +35,8 @@
 		["../demo_lib/img/mikan0.png", 		"github:teddokano/mikan/remote_demo/demo_lib/img/mikan0.png"	],
 		["../demo_lib/img/mikan1.png", 		"github:teddokano/mikan/remote_demo/demo_lib/img/mikan1.png"	]
 	],
-	"deps": [],
+	"deps": [
+		"github:teddokano/mikan"
+	],
 	"version": "1.10.7"
 	}
