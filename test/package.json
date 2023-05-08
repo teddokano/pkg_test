@@ -1,0 +1,9 @@
+{
+	"urls": [
+		["test/accelerometer.py", 	"github:teddokano/mikan/nxp_periph/accelerometer.py"	],
+		["../GPIO.py",				"github:teddokano/mikan/nxp_periph/GPIO.py"				],
+		["../test/nxp_periph/temp_sensor.py",		"github:teddokano/mikan/nxp_periph/temp_sensor.py"		]
+	],
+	"deps": [],
+	"version": "1.10.6"
+	}
