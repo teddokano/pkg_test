@@ -33,8 +33,8 @@
 		["../demo_lib/jslib/three.min.js", 		"github:teddokano/mikan/remote_demo/demo_lib/jslib/three.min.js"	],
 		["../demo_lib/img/mikan.jpg", 		"github:teddokano/mikan/remote_demo/demo_lib/img/mikan.jpg"	],
 		["../demo_lib/img/mikan0.png", 		"github:teddokano/mikan/remote_demo/demo_lib/img/mikan0.png"	],
-		["../demo_lib/img/mikan1.jpg", 		"github:teddokano/mikan/remote_demo/demo_lib/img/mikan1.jpg"	]
+		["../demo_lib/img/mikan1.png", 		"github:teddokano/mikan/remote_demo/demo_lib/img/mikan1.png"	]
 	],
 	"deps": [],
-	"version": "1.10.6"
+	"version": "1.10.7"
 	}
