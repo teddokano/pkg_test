@@ -1,7 +1,7 @@
 {
   "urls": [
-	["mlx90640/__init__.py", "github:jimmo/micropython-mlx90640/mlx90640/__init__.py"],
-	["mlx90640/utils.py", "github:jimmo/micropython-mlx90640/mlx90640/utils.py"]
+	["nxp_periph/__init__.py", "github:teddokano/pkg_test/nxp_periph/__init__.py"],
+	["nxp_periph/GPIO.py", "github:teddokano/pkg_test/nxp_periph/GPIO.py"]
   ],
   "deps": [
 	["collections-defaultdict", "latest"]
