@@ -1,7 +1,7 @@
 {
   "urls": [
 	["nxp_periph/__init__.py", "github:teddokano/mikan/nxp_periph/__init__.py"],
-	["nxp_periph/GPIO.py", "github:teddokano/mikan/nxp_periph/GPIO.py"]
+	["nxp_periph/GPIO.py", "github:teddokano/mikan/nxp_periph/GPIO.py"],
 	["nxp_periph/accelerometer.py", "github:teddokano/mikan/nxp_periph/accelerometer.py"]
   ],
   "deps": [
