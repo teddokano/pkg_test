@@ -5,7 +5,7 @@
 		["../demo_lib/DEMO.html", 				"github:teddokano/mikan/remote_demo/demo_lib/DEMO.html"		],
 		["../demo_lib/DEMO.js", 				"github:teddokano/mikan/remote_demo/demo_lib/DEMO.js"		],
 		["../demo_lib/DEMO.py", 				"github:teddokano/mikan/remote_demo/demo_lib/DEMO.py"		],
-		["../demo_lib/DUT_ACC.html", 			"github:teddokano/mikan/remote_demo/demo_lib/DUT_ACC.html"	],
+		["../demo_lib/DUT_ACC.html", 			"github:teddokano/mikan/remote_demo/demo_lib/DUT_ACC.html"	]
 	],
 	"deps": [
 		["github:teddokano/mikan", "latest"]
