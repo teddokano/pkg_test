@@ -19,15 +19,12 @@
 		["../demo_lib/DUT_RTC.html", 			"github:teddokano/mikan/remote_demo/demo_lib/DUT_RTC.html"	],
 		["../demo_lib/DUT_RTC.js", 				"github:teddokano/mikan/remote_demo/demo_lib/DUT_RTC.js"	],
 		["../demo_lib/DUT_RTC.py", 				"github:teddokano/mikan/remote_demo/demo_lib/DUT_RTC.py"	],
-
 		["../demo_lib/DUT_TEMP.html", 			"github:teddokano/mikan/remote_demo/demo_lib/DUT_TEMP.html"	],
 		["../demo_lib/DUT_TEMP.js", 				"github:teddokano/mikan/remote_demo/demo_lib/DUT_TEMP.js"	],
 		["../demo_lib/DUT_TEMP.py", 				"github:teddokano/mikan/remote_demo/demo_lib/DUT_TEMP.py"	],
-
 		["../demo_lib/favicon.ico", 			"github:teddokano/mikan/remote_demo/demo_lib/favicon.ico"	],
 		["../demo_lib/general.css", 				"github:teddokano/mikan/remote_demo/demo_lib/general.css"	],
 		["../demo_lib/general.js", 				"github:teddokano/mikan/remote_demo/demo_lib/general.js"	],
-
 		["../demo_lib/LEDC_gradation_control.js", 			"github:teddokano/mikan/remote_demo/demo_lib/LEDC_gradation_control.js"	]
 	],
 	"deps": [],
