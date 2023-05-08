@@ -1,11 +1,10 @@
 {
-	"urls": [
-		["nxp_periph/__init__.py", "github:teddokano/mikan/nxp_periph/__init__.py"],
-		["nxp_periph/accelerometer.py", "github:teddokano/mikan/nxp_periph/accelerometer.py"],
-	],
-	"deps": [
-		["collections-defaultdict", "latest"],
-		["os-path", "latest"]
-	], 
-	"version": "1.10.6"
+  "urls": [
+	["mlx90640/__init__.py", "github:jimmo/micropython-mlx90640/mlx90640/__init__.py"],
+	["mlx90640/utils.py", "github:jimmo/micropython-mlx90640/mlx90640/utils.py"]
+  ],
+  "deps": [
+	["collections-defaultdict", "latest"]
+  ],
+  "version": "0.1"
 }
