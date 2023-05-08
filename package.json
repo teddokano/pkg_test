@@ -1,0 +1,11 @@
+{
+	"urls": [
+		["nxp_periph/__init__.py", "github:teddokano/mikan/nxp_periph/__init__.py"],
+		["nxp_periph/accelerometer.py", "github:teddokano/mikan/nxp_periph/accelerometer.py"],
+	],
+	"deps": [
+		["collections-defaultdict", "latest"],
+		["os-path", "latest"]
+	], 
+	"version": "1.10.6"
+}
